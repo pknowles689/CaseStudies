@@ -7,7 +7,7 @@ package smartcityb_groupi;
 
 /**
  *
- * @author alexj
+ * @author alexj and pknowles
  */
 public class Login {
     
